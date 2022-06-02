@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/stipsan/react-spring-bottom-sheet/issues"
   },
-  "version": "3.4.1",
+  "version": "3.4.2",
   "publishConfig": {
     "access": "public"
   },
